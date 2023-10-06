@@ -3,7 +3,22 @@ guid: 05d7265ae38ba2b4795d452eba1a2fae
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_Cube_baked
+    second: {fileID: 2100000, guid: 7989fa063bfaef54a8ab79c00e663830, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_Torus_baked
+    second: {fileID: 2100000, guid: a64959ae61e204e45a45e4d202ba90e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: purple
+    second: {fileID: 2100000, guid: 62c804782e6798d4ca89f630fdc9875e, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0

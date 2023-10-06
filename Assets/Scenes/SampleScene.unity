@@ -166,7 +166,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bab214f8029d0f54fb3a1bbe2b16de68, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  currentSessionId: 391227877
+  currentSessionId: 767376888
   m_assetsFolder: Assets/MeshSyncAssets
   m_rootObject: {fileID: 191092066}
   m_usePhysicalCameraParams: 1
@@ -602,7 +602,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -1883503765301033134, guid: 05d7265ae38ba2b4795d452eba1a2fae, type: 3}
+  - {fileID: 2100000, guid: a64959ae61e204e45a45e4d202ba90e8, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1062,7 +1062,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: -872196626646429207, guid: 05d7265ae38ba2b4795d452eba1a2fae, type: 3}
+  - {fileID: 2100000, guid: 62c804782e6798d4ca89f630fdc9875e, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
