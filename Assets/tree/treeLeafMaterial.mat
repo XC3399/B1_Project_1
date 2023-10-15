@@ -124,7 +124,7 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     - _planeSize: 1.18
-    - _smoothness: 0
+    - _smoothness: 0.1
     - _windSpeed: 1.487
     - _windStrength: 0.464
     m_Colors:
