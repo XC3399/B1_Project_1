@@ -48,6 +48,8 @@ AudioMixerController:
   m_EnableSuspend: 1
   m_UpdateMode: 0
   m_ExposedParameters:
+  - guid: 12b204bc7d00f83408621ab14d5eb0b0
+    name: musicVolume
   - guid: a9aa9c47c40cf1a47946e1661051daaa
     name: musicLowpass
   m_AudioMixerGroupViews:
@@ -102,6 +104,7 @@ AudioMixerSnapshotController:
   m_SnapshotID: 843dc43535512b348b2bc2131fad9173
   m_FloatValues:
     a9aa9c47c40cf1a47946e1661051daaa: 1400
+    12b204bc7d00f83408621ab14d5eb0b0: 0
   m_TransitionOverrides: {}
 --- !u!243 &7033891080181046641
 AudioMixerGroupController:
@@ -109,7 +112,7 @@ AudioMixerGroupController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: music
+  m_Name: musicBolt
   m_AudioMixer: {fileID: 24100000}
   m_GroupID: ebe3c6ebb170fb6448d060f588680631
   m_Children: []
